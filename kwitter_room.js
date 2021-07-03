@@ -28,7 +28,7 @@ var firebaseConfig = {
 
           localStorage.setItem("room_name", room_name);
 
-          window.location= "index.html";
+          window.location= "kwitter_page.html";
     }
 
 
