@@ -47,6 +47,7 @@ function send() {
             message: msg,
             like:0
       });
+      document.getElementById("msg").value="";
 }
 
 function updateLike(message_id)
